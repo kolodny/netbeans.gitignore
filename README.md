@@ -1,2 +1,5 @@
 netbeans.gitignore
 ==================
+
+## .gitignore
+`nbproject/`
